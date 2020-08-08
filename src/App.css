@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Fondamento:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+.bgf{
+    font-size: 25px;
+}
+.bgf:hover{
+    background-color: rgb(141, 156, 156);
+    padding: 8px 5px;
+    border-radius: 15px;
+   
+}
+.bgf a:hover{
+    color: cornsilk;
+    text-decoration: none;
+   
+}
+.bgf a{
+    font-size: 25px;
+    color: black;
+}
+.bgf1{
+    font-size: 25px;
+    color: brown;
+}
+.bgf1 a{
+    font-size: 25px;
+    color: brown;
+}
+#brand{
+    font-family: 'Lobster', cursive;
+
+    font-size: 28px;
+}
+.signuptext{
+    font-family: 'Fondamento', cursive;
+}
+input.form-control{
+    border-bottom: 1px solid rgb(68, 186, 241);
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    
+}
+.title{
+    font-family: 'Libre Baskerville', serif;
+}
+.true{
+    visibility: hidden;
+}
+.title a{
+    color: black;
+}
+.rock{
+    cursor: pointer;
+}
